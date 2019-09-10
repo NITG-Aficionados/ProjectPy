@@ -21,9 +21,11 @@ Welcome to Python Practice! There are over `18 beginner Python exercises` just w
 
 <img align="center" src="https://github.com/gargarchit/ProjectPy/blob/master/colab.png">
 
-- STEP 3: Open Exercise Notebook
+- STEP 3: Open one of the Notebook.
 
-- STEP 4: Code or practice this challenge topics in order.
+- STEP 4: Run a cell (press SHIFT + ENTER) to get output. 
+
+- STEP 5: Code or practice this challenge topics in order.
 
 > More info on How to use Google Colab [Click here](https://colab.research.google.com/notebooks/welcome.ipynb)
 
