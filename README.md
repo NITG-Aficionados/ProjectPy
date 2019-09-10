@@ -1,16 +1,16 @@
-## ProjectPy<img align="left" src="https://www.python.org/static/opengraph-icon-200x200.png" width="180px">
+# ProjectPy<img align="left" src="https://www.python.org/static/opengraph-icon-200x200.png" width="180px">
 
 
 ---
 
-Welcome to Python Practice! There are over `18 beginner Python exercises` just waiting to be solved. Each exercise comes with a small discussion of a topic. Also the `link` to some challange problem on that topic you need to learn.
+Welcome to Python Practice! There are over `18 beginner Python exercises` just waiting to be solved. Each exercise comes with a small discussion of a topic. Also the `link` to some challenging problem on that topic you need to learn.
 
 ---
 
 
-> The premise of this challenge is to build a habit of practicing by making a public commitment of practicing the topic of your challenge.
+> The premise of this challenge is to build a habit of practicing by making a public commitment to practicing the topic of your challenge.
 
-> Why? Because habits that emphasize consistent practice have been proven to help overall retention of new learning material. Students like you have succeeded in not only making it through the finish line of their challenge by incorporating this daily practice, but also have deepened their learning and mastery of their new skills.
+> Why? Because habits that emphasize consistent practice have been proven to help overall retention of new learning material. Students like you have succeeded in not only making it through the finish line of their challenge by incorporating this daily practice but also have deepened their learning and mastery of their new skills.
 
 ## Here's how it works
 
